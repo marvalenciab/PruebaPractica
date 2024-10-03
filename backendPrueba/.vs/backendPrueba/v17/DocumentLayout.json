@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\reami\\OneDrive\\Escritorio\\CRUD\\backendPrueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F9F1D6-7101-4160-8AEF-8338427A483E}|backendPrueba\\backendPrueba.csproj|c:\\users\\reami\\onedrive\\escritorio\\crud\\backendprueba\\backendprueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F9F1D6-7101-4160-8AEF-8338427A483E}|backendPrueba\\backendPrueba.csproj|solutionrelative:backendprueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F9F1D6-7101-4160-8AEF-8338427A483E}|backendPrueba\\backendPrueba.csproj|c:\\users\\reami\\onedrive\\escritorio\\crud\\backendprueba\\backendprueba\\controllers\\tarjetacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F9F1D6-7101-4160-8AEF-8338427A483E}|backendPrueba\\backendPrueba.csproj|solutionrelative:backendprueba\\controllers\\tarjetacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 278,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\reami\\OneDrive\\Escritorio\\CRUD\\backendPrueba\\backendPrueba\\Program.cs",
+              "RelativeDocumentMoniker": "backendPrueba\\Program.cs",
+              "ToolTip": "C:\\Users\\reami\\OneDrive\\Escritorio\\CRUD\\backendPrueba\\backendPrueba\\Program.cs",
+              "RelativeToolTip": "backendPrueba\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:14:33.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TarjetaController.cs",
+              "DocumentMoniker": "C:\\Users\\reami\\OneDrive\\Escritorio\\CRUD\\backendPrueba\\backendPrueba\\Controllers\\TarjetaController.cs",
+              "RelativeDocumentMoniker": "backendPrueba\\Controllers\\TarjetaController.cs",
+              "ToolTip": "C:\\Users\\reami\\OneDrive\\Escritorio\\CRUD\\backendPrueba\\backendPrueba\\Controllers\\TarjetaController.cs",
+              "RelativeToolTip": "backendPrueba\\Controllers\\TarjetaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:12:22.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

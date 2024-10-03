@@ -1,0 +1,33 @@
+/* You can add global styles to this file, and also import other style files */
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background: #8e0e00; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #1f1c18,
+    #8e0e00
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #1f1c18,
+    #8e0e00
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.titulo {
+  font-family: "Potta One", system-ui;
+  text-align: center;
+}
+
+.toast-success {
+  background-color: #28a745 !important; /* Ajusta el color del fondo */
+  color: white !important; /* Asegura que el texto sea blanco */
+}
+
+.toast-container {
+  position: fixed;
+  top: 12px;
+  right: 12px;
+  z-index: 9999; /* Asegúrate de que esté por encima de otros elementos */
+}
